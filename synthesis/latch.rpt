@@ -1,0 +1,6 @@
+
+15. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\packet_admission_ctrl.\in_packet' from process `\packet_admission_ctrl.$proc$/home/pranav_2006/GDSReady/src/packet_admission_ctrl.v:71$3'.
+No latch inferred for signal `\packet_admission_ctrl.\accept' from process `\packet_admission_ctrl.$proc$/home/pranav_2006/GDSReady/src/packet_admission_ctrl.v:71$3'.
+No latch inferred for signal `\packet_admission_ctrl.\drop' from process `\packet_admission_ctrl.$proc$/home/pranav_2006/GDSReady/src/packet_admission_ctrl.v:71$3'.
+No latch inferred for signal `\packet_admission_ctrl.\next_state' from process `\packet_admission_ctrl.$proc$/home/pranav_2006/GDSReady/src/packet_admission_ctrl.v:30$2'.

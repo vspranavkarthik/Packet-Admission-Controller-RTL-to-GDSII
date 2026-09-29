@@ -1,0 +1,27 @@
+114. Printing statistics.
+
+=== packet_admission_ctrl ===
+
+        +----------Local Count, excluding submodules.
+        |        +-Local Area, excluding submodules.
+        |        | 
+       18        - wires
+       18        - wire bits
+       11        - public wires
+       11        - public wire bits
+        8        - ports
+        8        - port bits
+       13   166.41 cells
+        1   12.512   sky130_fd_sc_hd__a2111o_2
+        1    8.758   sky130_fd_sc_hd__a21o_2
+        1    10.01   sky130_fd_sc_hd__and3b_2
+        1   12.512   sky130_fd_sc_hd__and4bb_2
+        4   85.082   sky130_fd_sc_hd__dfxtp_2
+        1    3.754   sky130_fd_sc_hd__inv_2
+        2   12.512   sky130_fd_sc_hd__nor2_2
+        1   15.014   sky130_fd_sc_hd__nor4b_2
+        1    6.256   sky130_fd_sc_hd__or2_2
+
+   Chip area for module '\packet_admission_ctrl': 166.409600
+     of which used for sequential elements: 85.081600 (51.13%)
+

@@ -1,0 +1,15 @@
+{
+    "DESIGN_NAME": "packet_admission_ctrl",
+    "VERILOG_FILES": [
+        "dir::../src/packet_admission_ctrl.v"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10,
+    "FP_CORE_UTIL": 30,
+    "PL_TARGET_DENSITY_PCT": 40,
+    "FP_ASPECT_RATIO": 1.0,
+    "RUN_CTS": true,
+    "RUN_POST_GRT_DESIGN_REPAIR": true,
+    "RUN_MAGIC_STREAMOUT": true,
+    "RUN_KLAYOUT_STREAMOUT": true
+}
